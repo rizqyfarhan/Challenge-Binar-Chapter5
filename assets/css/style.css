@@ -1,0 +1,367 @@
+.container {
+  color: white;
+}
+
+/* PAGE 1 */
+
+.bg-1 {
+  background-image: url(../img/main-bg.jpg);
+  height: 700px;
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  text-align: center;
+}
+
+.tekshalaman1 {
+  font-family: Arial;
+}
+
+.tekshalaman1 h1 {
+  font-size: 70px;
+}
+
+.bg-1-mg {
+  top: 25vh;
+  position: relative;
+}
+
+/* PAGE 2 */
+
+.bg-2 {
+  background-image: url(../img/the-games-bg.jpg);
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  font-family: Arial;
+  align-items: center;
+}
+
+.bg-2 h1 {
+  font-size: 50px;
+}
+
+/* PAGE 3 */
+
+.bg-3 {
+  background-image: url(../img/features.jpg);
+  height: 700px;
+  background-size: cover;
+}
+
+.bg-3-h3 {
+  font-family: "Arial";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 27.6px;
+  letter-spacing: 2px;
+  margin-top: 30vh;
+}
+
+.bg-3-h1 {
+  font-family: "Arial";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 56px;
+  line-height: 64.39px;
+  letter-spacing: 3px;
+  margin-bottom: 0vh;
+}
+
+.bg-3-feature1 {
+  font-family: "Arial";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 27.6px;
+  letter-spacing: 2px;
+  color: #ffb548;
+  margin-bottom: 2.5vh;
+}
+
+.bg-3-text {
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: justify;
+  margin-bottom: 5vh;
+  margin-left: 4vh;
+}
+
+.bg-3-feature2 {
+  font-family: "Arial";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 27.6px;
+  letter-spacing: 2px;
+  color: #ffb548;
+  margin-bottom: 5vh;
+}
+
+.bg-3-feature3 {
+  font-family: "Arial";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 27.6px;
+  letter-spacing: 2px;
+  color: #ffb548;
+  margin-bottom: 0vh;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.bg-3-ellipse {
+  margin-right: 2vh;
+}
+
+.bg-3-bar {
+  margin-left: 1vh;
+}
+
+.mg-1 {
+  margin-right: 0vh;
+}
+
+/* PAGE 4 */
+
+.bg-4 {
+  background-image: url(../img/requirements.png);
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.bg-4-h3 {
+  margin-top: 11vh;
+  margin-bottom: 15vh;
+  font-family: "Arial";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 16.1px;
+  letter-spacing: 2px;
+  color: #ffffff;
+}
+
+.bg-4-h1 {
+  font-family: "Arial";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 56px;
+  line-height: 64.39px;
+  letter-spacing: 3px;
+  color: #ffffff;
+}
+
+table {
+  border: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+td,
+tr {
+  border: 10px solid white;
+  padding: 10px;
+}
+
+span {
+  font-family: "Arial";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 27.6px;
+  letter-spacing: 2px;
+  color: #ffb548;
+}
+
+.m-table {
+  margin-bottom: 25.76vh;
+}
+
+/* PAGE 5 */
+
+.bg-5 {
+  background-image: url(../img/endbackground.jpg);
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.bg-5-h1 {
+  font-family: "Arial";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 56px;
+  line-height: 64.39px;
+  letter-spacing: 3px;
+  color: #ffffff;
+  margin-top: 25vh;
+  margin-bottom: 5vh;
+}
+
+.bg-5-text {
+  margin-bottom: 6vh;
+  color: #ffffff;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.bg-5-btn-1 {
+  background: linear-gradient(194.68deg, #ffb548 11.27%, #f3af34 90.4%);
+  border-radius: 4px;
+  border: none;
+  padding: 3vh 12vh;
+  position: relative;
+  margin-bottom: 5vh;
+}
+
+.bg-5-container1 {
+  align-items: center;
+}
+
+.bg-5-container2 {
+  align-content: center;
+}
+
+.bg-5-rec2 {
+  margin-right: 10vh;
+}
+
+input[type="email"] {
+  width: 55.3vh;
+  height: 9vh;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.rec-logo {
+  position: absolute;
+  margin-top: 3.7vh;
+  margin-left: 55vh;
+}
+
+.rectangle {
+  width: 452px;
+  height: 182px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+.cont {
+  display: flex;
+  flex-direction: row;
+}
+
+.rectangle-name {
+  font: "Arial";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 27.6px;
+  letter-spacing: 2px;
+  color: #ffb548;
+  padding-left: 109px;
+}
+
+/* PAGE 6 */
+
+.bg-6 {
+  background-image: url(../img/endbackground.jpg);
+  height: 700px;
+  color: white;
+  background-size: cover;
+}
+
+.bg-6-h3 {
+  margin-bottom: 5.8vh;
+}
+
+.bg-6-h1 {
+  font: "Arial";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 65px;
+  line-height: 74.74px;
+  letter-spacing: 3px;
+  color: #ffffff;
+  margin-bottom: 7.4vh;
+}
+
+.bg-6-text {
+  font: "Open Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+  padding-bottom: 10vh;
+}
+
+footer {
+  background-color: #080a0b;
+  position: relative;
+  color: white;
+}
+
+hr {
+  color: gray;
+  border-style: inset;
+  border-width: 1px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.container-1 {
+  display: flex;
+}
+
+.container-1-logo {
+  display: flex;
+}
+
+.container-2 {
+  display: flex;
+}
+
+.container-1 > div {
+  margin-right: 50px;
+}
+
+.ft-trademark {
+  font: "Open Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+}
+
+.ft-policy {
+  display: flex;
+  margin-left: 51.5vh;
+}
+
+.btn-1 {
+  background-color: orange;
+  border: none;
+  padding: 3vh 12vh;
+  border-radius: 5px;
+  position: relative;
+  margin-bottom: 50vh;
+  margin-right: 2vh;
+}
